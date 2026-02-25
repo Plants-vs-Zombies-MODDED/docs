@@ -1,0 +1,6 @@
+---
+icon: function
+---
+
+# detectFileVersion
+

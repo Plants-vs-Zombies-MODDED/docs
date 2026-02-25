@@ -1,0 +1,6 @@
+---
+icon: function
+---
+
+# startInterval2
+
